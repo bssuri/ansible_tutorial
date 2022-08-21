@@ -1,3 +1,8 @@
-192.168.19.129 apache_package=httpd php_package=php
+[web_servers]
+192.168.19.129
+
+[db_servers]
 192.168.19.130
+
+[file_servers]
 192.168.19.131
